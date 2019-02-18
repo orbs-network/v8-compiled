@@ -1,2 +1,4 @@
 .vscode
 .cipd
+binary
+.DS_Store
