@@ -1,4 +1,4 @@
-#V8 Compiled
+# V8 Compiled
 > The aim of this repo is to store the compiled verion of V8 library (not executable) in releases for the use in other projects.
 
 V8 is Google's open source project. As a result of it, V8's toolchain contains some parts of overall Google toolchain. It's not that straigtforvard, Without prior knowledge, to compile V8 as a library. 
